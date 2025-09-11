@@ -51,4 +51,5 @@
   <a href="mailto:1662308219z@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </div>  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbchi&exclude_repo=skillhub,ssm-learning,netty,student-java-lab,data-structures,ttms,linux-lab-exercises,xv6-2021&layout=compact" />
 
